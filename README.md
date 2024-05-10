@@ -34,9 +34,10 @@ EE.09 Programming, creation and administration of websites and databases <br />
 
 <div align='center'>
 <p align='center'>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelang3lo&show_icons=true&locale=en&layout=compact" alt="michelang3lo" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michelang3lo&show_icons=true&locale=en&layout=compact" alt="michelang3lo" />
 </p>
 </div>
+
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/MichelAng3lo/github-profile-views-counter">
