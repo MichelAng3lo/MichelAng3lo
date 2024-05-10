@@ -32,7 +32,7 @@ EE.09 Programming, creation and administration of websites and databases <br />
 
 <p align='center'>
    <a href="https://github.com/MichelAng3lo/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelAng3lo&layout=compact"/></a>
+    <img height="150" src="https://camo.githubusercontent.com/4c8932e7e286c182189a26c7b186233486d98be0ea564dd05ad14ba2fb4326ae/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4469616e614d617a7572637a616b266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelAng3lo&layout=compact" style="max-width: 100%;">
 </p>
 
 <div align="center" style="margin: 40px 0">
