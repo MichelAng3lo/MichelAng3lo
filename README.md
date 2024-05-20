@@ -10,7 +10,7 @@ LinkedIn: linkedin.com/in/mpkwiecinski
 🔭 I’m currently studying for a bachelor's degree in computer science and econometrics. <br />
 :school: 2018 - 2022 I was learning in Technical Secondary School im. Jana Zamoyskiego w Zwierzyńcu and I have gain  <br />
 Qualifications:
-EE.08 Installation and operation of computer systems, peripheral equipment and networks <br />
+EE.08. Assembly and operation of computer systems, peripheral devices and networks <br />
 EE.09 Programming, creation and administration of websites and databases <br />
 
 ✨ I am searching an internship/job in IT.<br />
