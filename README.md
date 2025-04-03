@@ -1,38 +1,31 @@
-# Hi there 👋
+# Welcome to my profile! 👋
+
+
+
+## About me:
+I am a programming enthusiast who began my IT journey in technical school, where I discovered my passion for coding. After a few years, I created this GitHub account to share my projects and continue developing my skills. I am in the process of enriching my profile with projects that I worked on as part of my learning and interests. 
+
+I have an educational background in computer science and econometrics/data science and am open to growing in various IT fields. With a solid foundation in programming and a versatile skill set, I am ready to take on new challenges and expand my knowledge in different directions.
+
+
+
+## 🛠 I am familiar with programming languages such as:
+* Python
+* C#
+* Java
+* R
+* SQL
+* HTML
+* CSS
+* C
+* C++
+<br />
 
  <br />
 📫 How to reach me: michalkwieci@onet.pl
  <br />
 LinkedIn: linkedin.com/in/mpkwiecinski
  <br />
-
-## About me:
-🔭 I’m currently studying for a bachelor's degree in computer science and econometrics. <br />
-:school: 2018 - 2022 I was learning in Technical Secondary School im. Jana Zamoyskiego w Zwierzyńcu and I have gain  <br />
-Qualifications:
-EE.08. Assembly and operation of computer systems, peripheral devices and networks <br />
-EE.09 Programming, creation and administration of websites and databases <br />
-
-✨ I am searching an internship/job in IT.<br />
-:computer: I took part twice in IT Intership:
-* July-August 2020 IT Internship, euromind, Sewilla, Andalucia, Hiszpania
-* July-August 2019 IT Internship, INSIGHT4LIFE, Portsmouth, Anglia, Wielka Brytania <br />
-
-
-
-## 🛠 I am familiar with programming languages such as:
-* Python
-* SQL
-* C#
-* Java
-* HTML
-* CSS
-* C
-* R
-* MatLab
-<br />
-
-
 
 <div align='center'>
 <p align='center'>
